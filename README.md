@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gladys333
 - 👀 I’m interested in band the beatles, queen , food and pharmacy
 - 🌱 I’m currently learning html and css 
-- 📫 How to reach me email : gilymacaroon36@gmail.com IG :__gldyss_
+- 📫 How to reach me email : gilymacaroon36@gmail.com IG :__gldyss__
 
 <!---
 Gladys333/Gladys333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
